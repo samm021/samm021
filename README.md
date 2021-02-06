@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! 👋
+
+- 🔭 I’m currently studying in Hacktiv8
+- 🌱 I’m currently learning React & React Native
+- 💬 Ask me about anything!
 
 <!--
 **samm021/samm021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
