@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hi! 👋
 
 - 🔭 I’m currently studying in Hacktiv8
 - 🌱 I’m currently learning React & React Native
