@@ -1,5 +1,3 @@
-- 🌱  I’m currently learning Flutter & Dart
-
 - 💬  Ask me about anything, I'll be happy to help!
 
 - 📫  How to reach me: mohammed.ismail.pribadi@gmail.com
