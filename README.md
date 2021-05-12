@@ -1,8 +1,6 @@
-- 💬  Ask me about anything, I'll be happy to help!
-
 - 📫  How to reach me: mohammed.ismail.pribadi@gmail.com
 
-- ⚡  Fun fact: I love my cats!
+- ⚡  Fun fact: I love hiro & keiko!
 
 - 🛠️  Language and tools:
 
