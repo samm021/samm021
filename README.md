@@ -1,1 +1,1 @@
- 📫  reach me out at mohammed.ismail.pribadi@gmail.com or ismail.pribadi@xendit.co
+ 📫  reach me out at mohammed.ismail.pribadi@gmail.com / ismail.pribadi@xendit.co
